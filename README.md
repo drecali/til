@@ -12,5 +12,6 @@ This repo is inspired by https://github.com/jbranchaud/til and the `Learning in 
 
 ### Jira
 
+* [Automation: Debug an automation rule](jira/automation-debug-a-rule)
 * [Automation: Find the smart value for a field](jira/automation-find-smart-value-for-field.md)
 * [Automation: update task `Story point estimate` when subtask values change](jira/automatic-sum-of-story-point-estimate.md)
