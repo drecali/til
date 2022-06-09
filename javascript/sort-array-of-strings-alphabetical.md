@@ -10,20 +10,20 @@ Still, it can be very useful for debugging, prototyping, and light automation. H
 ```js
 const arr = [
     {
-        "name": "Alice",
-        "otherKey": null
-    },
-    {
         "name": "Bob",
         "otherKey": []
     },
     {
-        "name": "Cindy",
-        "otherKey": true
+        "name": "Alice",
+        "otherKey": null
     },
     {
         "name": "Jim",
         "otherKey": 1
+    },
+    {
+        "name": "Cindy",
+        "otherKey": true
     }
 ]
 
