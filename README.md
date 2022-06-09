@@ -6,9 +6,14 @@ This repo is inspired by https://github.com/jbranchaud/til and the `Learning in 
 
 ## Topics
 
+* [JavaScript](#javascript)
 * [Jira](#jira)
 
 ## Table of Contents
+
+### JavaScript
+
+* [Sort an array of strings/objects alphabetically](javascript/sort-array-of-strings-alphabetical.md)
 
 ### Jira
 
