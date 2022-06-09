@@ -8,10 +8,12 @@
     * Use the `debug` function
         * Surrounding a smart action with `debug` processes the smart value as usual and also prints its value to the audit log as a `Debug message`.
         * Example: `{{#debug}}{{#=}}1 + 1{{/}}{{/}}` prints the following in the audit log:
-            ```
+
+            ```sh
             Debug message
             2
             ```
+
     * Make testing easy & clean
         * Copy the rule and disable the original before testing so there's a backup of the original rule.
         * Use the `Manual` trigger (Jira only) to execute a rule from an issue at any time. The `Scheduled` trigger is also useful for testing.
