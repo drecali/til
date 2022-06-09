@@ -1,6 +1,6 @@
 # til - Today I Learned
 
-A collection of useful things I learned. Keeping track of them helps me retain more and makes it easier to share the knowledge with other devs that can benefit from it. I love to learn so please let me know if you spot any mistakes or I missed something. Feel free to share anything you find useful.
+A collection of useful things I learned as a developer. Keeping track of them helps me retain more and makes it easier to share the knowledge with other devs that can benefit from it. I love to learn so please let me know if you spot any mistakes or I missed something. Feel free to share anything you find useful.
 
 This repo is inspired by https://github.com/jbranchaud/til and the `Learning in Public` idea/movement.
 
