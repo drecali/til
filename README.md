@@ -9,6 +9,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 * [JavaScript](#javascript)
 * [Jira](#jira)
 * [Scrum](#scrum)
+* [Material UI](#material-ui)
 
 ## Table of Contents
 
@@ -21,6 +22,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 * [Automation: Debug an automation rule](jira/automation-debug-a-rule.md)
 * [Automation: Find the smart value for a field](jira/automation-find-smart-value-for-field.md)
 * [Automation: update task `Story point estimate` when subtask values change](jira/automation-sum-of-story-point-estimate.md)
+
+### Material UI
+
+* [`sx` prop interprets `number` values inconsistently](material-ui/sx-prop-interprets-number-values-inconsistently.md)
 
 ### Scrum
 
