@@ -8,8 +8,8 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 * [JavaScript](#javascript)
 * [Jira](#jira)
-* [Scrum](#scrum)
 * [Material UI](#material-ui)
+* [Scrum](#scrum)
 
 ## Table of Contents
 
