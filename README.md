@@ -6,27 +6,32 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ## Topics
 
-* [JavaScript](#javascript)
-* [Jira](#jira)
-* [Material UI](#material-ui)
-* [Scrum](#scrum)
+- [CSS](#css)
+- [JavaScript](#javascript)
+- [Jira](#jira)
+- [Material UI](#material-ui)
+- [Scrum](#scrum)
 
 ## Table of Contents
 
+### CSS
+
+- [`font-size` in Safari only supports integers](css/font-size-in-safari-only-supports-integers.md)
+
 ### JavaScript
 
-* [Sort an array of strings/objects alphabetically](javascript/sort-array-of-strings-alphabetical.md)
+- [Sort an array of strings/objects alphabetically](javascript/sort-array-of-strings-alphabetical.md)
 
 ### Jira
 
-* [Automation: Debug an automation rule](jira/automation-debug-a-rule.md)
-* [Automation: Find the smart value for a field](jira/automation-find-smart-value-for-field.md)
-* [Automation: update task `Story point estimate` when subtask values change](jira/automation-sum-of-story-point-estimate.md)
+- [Automation: Debug an automation rule](jira/automation-debug-a-rule.md)
+- [Automation: Find the smart value for a field](jira/automation-find-smart-value-for-field.md)
+- [Automation: update task `Story point estimate` when subtask values change](jira/automation-sum-of-story-point-estimate.md)
 
 ### Material UI
 
-* [`sx` prop interprets `number` values inconsistently](material-ui/sx-prop-interprets-number-values-inconsistently.md)
+- [`sx` prop interprets `number` values inconsistently](material-ui/sx-prop-interprets-number-values-inconsistently.md)
 
 ### Scrum
 
-* [Scrum Poker Online (free and quick)](scrum/scrum-poker-online-free-quick.md)
+- [Scrum Poker Online (free and quick)](scrum/scrum-poker-online-free-quick.md)
