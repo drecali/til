@@ -67,7 +67,9 @@ describe("Test spec", () => {
 ```
 
 Failing test in the test runner:
+
 ![image](https://github.com/drecali/til/blob/main/cypress/tests-runner.png)
 
 Failing test in headless mode (CI):
+
 ![image](https://github.com/drecali/til/blob/main/cypress/tests-ci.png)
