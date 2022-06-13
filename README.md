@@ -7,6 +7,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ## Topics
 
 - [CSS](#css)
+- [Cypress](#cypress)
 - [JavaScript](#javascript)
 - [Jira](#jira)
 - [Material UI](#material-ui)
@@ -17,6 +18,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### CSS
 
 - [`font-size` in Safari only supports integers](css/font-size-in-safari-only-supports-integers.md)
+
+### Cypress
+
+- [Stop test suite on API error](cypress/stop-test-suite-on-api-error.md)
 
 ### JavaScript
 
