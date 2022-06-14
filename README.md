@@ -25,6 +25,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### JavaScript
 
+- [\[Bookmarklet\] - remove `notranslate` class that prevents whole page translation](javascript/bookmarklet-remove-notranslate-class-that-prevents-whole-page-translation.md)
 - [Sort an array of strings/objects alphabetically](javascript/sort-array-of-strings-alphabetical.md)
 
 ### Jira
