@@ -18,6 +18,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### CSS
 
+- [Combining multiple selectors](css/combining-multiple-selectors.md)
 - [`font-size` in Safari only supports integers](css/font-size-in-safari-only-supports-integers.md)
 
 ### Cypress
