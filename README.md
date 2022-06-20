@@ -24,6 +24,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### Cypress
 
+- [Select element by exact `innerText` regExp match, even if similar elements exist](cypress/select-element-by-exact-innerText-regex-match.md)
 - [Stop test suite on API error](cypress/stop-test-suite-on-api-error.md)
 
 ### JavaScript
