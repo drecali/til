@@ -6,6 +6,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ## Topics
 
+- [CLI](#cli)
 - [CSS](#css)
 - [Cypress](#cypress)
 - [JavaScript](#javascript)
@@ -16,6 +17,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [SVG](#svg)
 
 ## Table of Contents
+
+### CLI
+
+- [Visual diff tool to compare images](cli/visual-diff-tool-compare-images.md)
 
 ### CSS
 
