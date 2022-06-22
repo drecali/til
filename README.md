@@ -20,7 +20,8 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### CLI
 
-- [Visual diff tool to compare images](cli/visual-diff-tool-compare-images.md)
+- [`[Terminal]` Warp: a modern terminal with IDE features](cli/terminal-warp-a-modern-terminal-with-ide-features.md)
+- [`[Tool]` Visual diff tool to compare images](cli/tool-visual-diff-tool-compare-images.md)
 
 ### CSS
 
