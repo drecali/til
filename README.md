@@ -15,6 +15,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Material UI](#material-ui)
 - [Scrum](#scrum)
 - [SVG](#svg)
+- [VS Code](#vs-code)
 
 ## Table of Contents
 
@@ -62,3 +63,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### SVG
 
 - [SVG Online Dev Tools](svg/svg-online-dev-tools.md)
+
+### VS Code
+
+- [`[Extension]` Git Graph is awesome!](vscode/extension-git-graph-is-awesome.md)
