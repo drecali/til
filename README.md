@@ -38,6 +38,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 - [\[Bookmarklet\] - insert text snippet at current cursor position](markdown/collapsible-sections-plus-bookmarklet.md)
 - [\[Bookmarklet\] - remove `notranslate` class that prevents whole page translation](javascript/bookmarklet-remove-notranslate-class-that-prevents-whole-page-translation.md)
+- [Combine conditions using array](javascript/combine-conditions-using-array.md)
 - [Object copying failures and partial solutions](javascript/object-copying-failures-and-partial-solutions.md)
 - [Sort an array of strings/objects alphabetically](javascript/sort-array-of-strings-alphabetical.md)
 
