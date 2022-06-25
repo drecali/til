@@ -67,4 +67,5 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### VS Code
 
+- [`[Extension]` Code Spell Checker](vscode/extension-code-spell-checker.md)
 - [`[Extension]` Git Graph is awesome!](vscode/extension-git-graph-is-awesome.md)
