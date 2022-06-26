@@ -51,6 +51,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### Markdown
 
 - [Collapsible Sections + Bookmarklet](markdown/collapsible-sections-plus-bookmarklet.md)
+- [Mermaid charts in GitHub](markdown/mermaid-charts-in-github.md)
 - [Tables Basics](markdown/tables-basics.md)
 
 ### Material UI
