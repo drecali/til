@@ -6,6 +6,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ## Topics
 
+- [CI (Continuous Integration)](#ci)
 - [CLI](#cli)
 - [CSS](#css)
 - [Cypress](#cypress)
@@ -18,6 +19,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [VS Code](#vs-code)
 
 ## Table of Contents
+
+### <a id="ci"></a>CI (Continuous Integration)
+
+- [`[GitHub Actions]` - Conditionally run CI action if commit message has --flag](ci/github-actions-conditionally-run-ci-action-if-commit-message-has-flag.md)
 
 ### CLI
 
