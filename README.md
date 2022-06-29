@@ -31,8 +31,8 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### CLI
 
-- [`[Terminal]` Warp: a modern terminal with IDE features](cli/terminal-warp-a-modern-terminal-with-ide-features.md)
-- [`[Tool]` Visual diff tool to compare images](cli/tool-visual-diff-tool-compare-images.md)
+- [`[Terminal]` - Warp: a modern terminal with IDE features](cli/terminal-warp-a-modern-terminal-with-ide-features.md)
+- [`[Tool]` - Visual diff tool to compare images](cli/tool-visual-diff-tool-compare-images.md)
 
 ### CSS
 
@@ -46,17 +46,17 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### JavaScript
 
-- [\[Bookmarklet\] - insert text snippet at current cursor position](markdown/collapsible-sections-plus-bookmarklet.md)
-- [\[Bookmarklet\] - remove `notranslate` class that prevents whole page translation](javascript/bookmarklet-remove-notranslate-class-that-prevents-whole-page-translation.md)
+- [`[Bookmarklet]` - insert text snippet at current cursor position](markdown/collapsible-sections-plus-bookmarklet.md)
+- [`[Bookmarklet]` - remove `notranslate` class that prevents whole page translation](javascript/bookmarklet-remove-notranslate-class-that-prevents-whole-page-translation.md)
 - [Combine conditions using array](javascript/combine-conditions-using-array.md)
 - [Object copying failures and partial solutions](javascript/object-copying-failures-and-partial-solutions.md)
 - [Sort an array of strings/objects alphabetically](javascript/sort-array-of-strings-alphabetical.md)
 
 ### Jira
 
-- [Automation: Debug an automation rule](jira/automation-debug-a-rule.md)
-- [Automation: Find the smart value for a field](jira/automation-find-smart-value-for-field.md)
-- [Automation: update task `Story point estimate` when subtask values change](jira/automation-sum-of-story-point-estimate.md)
+- [`[Automation]`- Debug an automation rule](jira/automation-debug-a-rule.md)
+- [`[Automation]`- Find the smart value for a field](jira/automation-find-smart-value-for-field.md)
+- [`[Automation]`- update task `Story point estimate` when subtask values change](jira/automation-sum-of-story-point-estimate.md)
 
 ### Markdown
 
@@ -79,5 +79,5 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### VS Code
 
-- [`[Extension]` Code Spell Checker](vscode/extension-code-spell-checker.md)
-- [`[Extension]` Git Graph is awesome!](vscode/extension-git-graph-is-awesome.md)
+- [`[Extension]` - Code Spell Checker](vscode/extension-code-spell-checker.md)
+- [`[Extension]` - Git Graph is awesome!](vscode/extension-git-graph-is-awesome.md)
