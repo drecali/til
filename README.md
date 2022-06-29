@@ -6,6 +6,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ## Topics
 
+- [Chrome](#chrome)
 - [CI (Continuous Integration)](#ci)
 - [CLI](#cli)
 - [CSS](#css)
@@ -19,6 +20,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [VS Code](#vs-code)
 
 ## Table of Contents
+
+### Chrome
+
+- [`[DevTools]` - Filter failed or pending network requests](chrome/devtools-filter-failed-or-pending-network-requests.md)
 
 ### <a id="ci"></a>CI (Continuous Integration)
 
