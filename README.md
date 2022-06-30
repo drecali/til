@@ -1,8 +1,13 @@
 # til - Today I Learned
 
-A collection of useful things I learned as a developer. Keeping track of them helps me retain more and makes it easier to share the knowledge with other devs that can benefit from it. I love to learn so please let me know if you spot any mistakes or I missed something. Feel free to share anything you find useful.
+A collection of the most useful things I learned as a developer (not added in the order I learned them). Keeping track of them helps me retain more and makes it easier to share the knowledge with other devs that can benefit from it. I love to learn so please let me know if you spot any mistakes or I missed something. Feel free to share anything you find useful.
 
 This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/til) repo and the `Learning in Public` idea/movement.
+
+## FAQ
+
+- You really didn't learn `this` until today? How can you be a working developer and not know `this`?
+  - As a self-taught developer and long-time coding meetup attendee/organizer, I try to share a mix of fundamentals and more specialized knowledge. Fundamentals to have a broader appeal and it can make a significant difference for multiple devs. One goal for this repo is to make it easy to share useful info with devs I interact with. Useful tips and tools that don't seem to difficult can still save a dev many hours and improve their quality of life.
 
 ## Topics
 
@@ -79,5 +84,6 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### VS Code
 
+- [`[Command]` - Copy GitHub permalink to code snippet](vscode/command-copy-github-permalink-to-code-snippet.md)
 - [`[Extension]` - Code Spell Checker](vscode/extension-code-spell-checker.md)
 - [`[Extension]` - Git Graph is awesome!](vscode/extension-git-graph-is-awesome.md)
