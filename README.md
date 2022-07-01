@@ -55,6 +55,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [`[Bookmarklet]` - remove `notranslate` class that prevents whole page translation](javascript/bookmarklet-remove-notranslate-class-that-prevents-whole-page-translation.md)
 - [Combine conditions using array](javascript/combine-conditions-using-array.md)
 - [Object copying failures and partial solutions](javascript/object-copying-failures-and-partial-solutions.md)
+- [RegEx is awesome - online RegEx playgrounds and cheatsheets](javascript/regex-is-awesome-online-regex-playgrounds-cheatsheets.md)
 - [Sort an array of strings/objects alphabetically](javascript/sort-array-of-strings-alphabetical.md)
 
 ### Jira
