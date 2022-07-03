@@ -89,3 +89,4 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [`[Command]` - Copy GitHub permalink to code snippet](vscode/command-copy-github-permalink-to-code-snippet.md)
 - [`[Extension]` - Code Spell Checker](vscode/extension-code-spell-checker.md)
 - [`[Extension]` - Git Graph is awesome!](vscode/extension-git-graph-is-awesome.md)
+- [`[Extension]` - `TODO` Highlight](vscode/extension-todo-highlight.md)
