@@ -22,4 +22,6 @@ Chrome has a ton of keyboard shortcuts. Here are the ones I use most often and s
 
 ## References
 
-- [Chrome Docs](https://support.google.com/chrome/answer/157179)
+- [Chrome Shortcuts](https://support.google.com/chrome/answer/157179)
+- [Keyboard element](https://meta.stackexchange.com/questions/5527/keyboard-glyphs)
+- [Keyboard shortcut markup generator](https://kbd.hsuan.xyz/)
