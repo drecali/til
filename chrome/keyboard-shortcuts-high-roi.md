@@ -13,7 +13,9 @@ Chrome has a ton of keyboard shortcuts. Here are the ones I use most often and s
 | Find text in webpage                | <kbd>⌘</kbd> + <kbd>F</kbd>                         | <kbd>Ctrl</kbd> + <kbd>F</kbd>                      |
 | Refresh                             | <kbd>⌘</kbd> + <kbd>R</kbd>                         | <kbd>Ctrl</kbd> + <kbd>R</kbd>                      |
 | Refresh and ignore cached content   | <kbd>⌘</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>      | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>   |
+| Stop loading current tab            | <kbd>Esc</kbd>                                      | <kbd>Esc</kbd>                                      |
 | Open new empty tab                  | <kbd>⌘</kbd> + <kbd>T</kbd>                         | <kbd>Ctrl</kbd> + <kbd>T</kbd>                      |
+| Focus on address bar                | <kbd>⌘</kbd> + <kbd>L</kbd>                         | <kbd>Ctrl</kbd> + <kbd>L</kbd>                      |
 | Navigate to previous page           | <kbd>⌘</kbd> + <kbd>←</kbd>                         | <kbd>Alt</kbd> + <kbd>←</kbd>                       |
 | Navigate to next page               | <kbd>⌘</kbd> + <kbd>→</kbd>                         | <kbd>Alt</kbd> + <kbd>→</kbd>                       |
 | Open new window                     | <kbd>⌘</kbd> + <kbd>N</kbd>                         | <kbd>Ctrl</kbd> + <kbd>N</kbd>                      |
