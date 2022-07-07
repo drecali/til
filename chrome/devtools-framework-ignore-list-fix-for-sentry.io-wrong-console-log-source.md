@@ -2,7 +2,7 @@
 
 ## Background
 
-Messages in the Chrome console always show their `source`: the exact file and line of code that triggered the message is shown on the right side of the screen (for LTR languages at least). The format is `filename.extension:line#`
+Messages in the Chrome console always show their `source`: the exact file and line of code that triggered the message is shown on the right side of the console panel (for LTR languages at least). The format is `filename.extension:line#`
 
 ![image](https://user-images.githubusercontent.com/24983797/177786463-2335c89d-f689-4427-9126-6590556c6b97.png)
 
