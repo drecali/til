@@ -53,6 +53,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Stop test suite on API error](cypress/stop-test-suite-on-api-error.md)
 - [`while` loop DIY workaround in Cypress](cypress/while-loop-diy-workaround-cypress.md)
 
+### DevOps
+
+- [Free SSL from Cloudflare](devops/free-ssl-cloudflare.md)
+
 ### JavaScript
 
 - [`[Bookmarklet]` - insert text snippet at current cursor position](markdown/collapsible-sections-plus-bookmarklet.md)
