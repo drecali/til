@@ -58,6 +58,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 - [Free SSL from Cloudflare](devops/free-ssl-cloudflare.md)
 
+### HTML
+
+- [Keyboard button element](html/keyboard-button-element.md)
+
 ### JavaScript
 
 - [`[Bookmarklet]` - insert text snippet at current cursor position](markdown/collapsible-sections-plus-bookmarklet.md)
@@ -77,6 +81,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### Markdown
 
 - [Collapsible Sections + Bookmarklet](markdown/collapsible-sections-plus-bookmarklet.md)
+- [Keyboard button element](html/keyboard-button-element.md)
 - [Link to heading on same page](markdown/link-to-heading-or-html-element-on-same-page.md)
 - [Mermaid charts in GitHub](markdown/mermaid-charts-in-github.md)
 - [Tables Basics](markdown/tables-basics.md)
