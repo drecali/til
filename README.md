@@ -16,6 +16,8 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [CLI](#cli)
 - [CSS](#css)
 - [Cypress](#cypress)
+- [DevOps](#devops)
+- [HTML](#html)
 - [JavaScript](#javascript)
 - [Jira](#jira)
 - [Markdown](#markdown)
