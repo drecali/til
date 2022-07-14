@@ -20,6 +20,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Jira](#jira)
 - [Markdown](#markdown)
 - [Material UI](#material-ui)
+- [Office Software](#office-software)
 - [Scrum](#scrum)
 - [SVG](#svg)
 - [VS Code](#vs-code)
@@ -90,6 +91,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### Material UI
 
 - [`sx` prop interprets `number` values inconsistently](material-ui/sx-prop-interprets-number-values-inconsistently.md)
+
+### Office Software
+
+- [`[Spreadsheet]` - Concatenate with `&` operator](office-software/spreadsheet-concatenate-with-ampersand.md)
 
 ### Scrum
 
