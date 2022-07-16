@@ -88,7 +88,9 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Collapsible Sections + Bookmarklet](markdown/collapsible-sections-plus-bookmarklet.md)
 - [Keyboard button element](html/keyboard-button-element.md)
 - [Link to heading on same page](markdown/link-to-heading-or-html-element-on-same-page.md)
-- [Mermaid charts in GitHub](markdown/mermaid-charts-in-github.md)
+- [`[Lists]` - automatic numbering](markdown/lists-automatic-numbering.md)
+- [Mermaid charts in GitHub
+  ](markdown/mermaid-charts-in-github.md)
 - [Tables Basics](markdown/tables-basics.md)
 
 ### Material UI
