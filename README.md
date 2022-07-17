@@ -89,8 +89,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Keyboard button element](html/keyboard-button-element.md)
 - [Link to heading on same page](markdown/link-to-heading-or-html-element-on-same-page.md)
 - [`[Lists]` - automatic numbering](markdown/lists-automatic-numbering.md)
-- [Mermaid charts in GitHub
-  ](markdown/mermaid-charts-in-github.md)
+- [Mermaid charts in GitHub](markdown/mermaid-charts-in-github.md)
 - [Tables Basics](markdown/tables-basics.md)
 
 ### Material UI
@@ -114,4 +113,5 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [`[Command]` - Copy GitHub permalink to code snippet](vscode/command-copy-github-permalink-to-code-snippet.md)
 - [`[Extension]` - Code Spell Checker](vscode/extension-code-spell-checker.md)
 - [`[Extension]` - Git Graph is awesome!](vscode/extension-git-graph-is-awesome.md)
+- [`[Extension]` - GitLens is a must](vscode/extension-gitlens-is-a-must.md)
 - [`[Extension]` - `TODO` Highlight](vscode/extension-todo-highlight.md)
