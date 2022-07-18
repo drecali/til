@@ -115,3 +115,4 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [`[Extension]` - Git Graph is awesome!](vscode/extension-git-graph-is-awesome.md)
 - [`[Extension]` - GitLens is a must](vscode/extension-gitlens-is-a-must.md)
 - [`[Extension]` - `TODO` Highlight](vscode/extension-todo-highlight.md)
+- [Search + RegEx = SuperSearch 🚀](vscode/search-plus-regex-equals-supersearch.md)
