@@ -54,6 +54,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### Cypress
 
 - [Check if loading is finished](cypress/check-if-loading-finished.md)
+- [`[Plugin]` - `cypress-terminal-report` for instant headless debug info](cypress/plugin-cypress-terminal-report-instant-headless-debug-info.md)
 - [Select element by exact `innerText` regExp match, even if similar elements exist](cypress/select-element-by-exact-innerText-regex-match.md)
 - [Stop test suite on API error](cypress/stop-test-suite-on-api-error.md)
 - [`while` loop DIY workaround in Cypress](cypress/while-loop-diy-workaround-cypress.md)
