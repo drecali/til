@@ -25,6 +25,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Office Software](#office-software)
 - [Scrum](#scrum)
 - [SVG](#svg)
+- [TypeScript](#typescript)
 - [VS Code](#vs-code)
 
 ## Table of Contents
@@ -109,6 +110,8 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 - [SVG Online Dev Tools](svg/svg-online-dev-tools.md)
 
+### TypeScript
+- [Immutable objects or arrays with `as const`](typescript/immutable-objects-or-arrays-as-const.md)
 ### VS Code
 
 - [`[Command]` - Copy GitHub permalink to code snippet](vscode/command-copy-github-permalink-to-code-snippet.md)
