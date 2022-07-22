@@ -115,6 +115,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### VS Code
 
 - [`[Command]` - Copy GitHub permalink to code snippet](vscode/command-copy-github-permalink-to-code-snippet.md)
+- [Custom keyboard shortcuts](vscode/custom-keyboard-shortcuts.md)
 - [`[Extension]` - Code Spell Checker](vscode/extension-code-spell-checker.md)
 - [`[Extension]` - Git Graph is awesome!](vscode/extension-git-graph-is-awesome.md)
 - [`[Extension]` - GitLens is a must](vscode/extension-gitlens-is-a-must.md)
