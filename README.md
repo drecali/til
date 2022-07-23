@@ -55,6 +55,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### Cypress
 
 - [Check if loading is finished](cypress/check-if-loading-finished.md)
+- [Headless login custom command](cypress/headless-login-custom-command.md)
 - [`[Plugin]` - `cypress-terminal-report` for instant headless debug info](cypress/plugin-cypress-terminal-report-instant-headless-debug-info.md)
 - [Select element by exact `innerText` regExp match, even if similar elements exist](cypress/select-element-by-exact-innerText-regex-match.md)
 - [Stop test suite on API error](cypress/stop-test-suite-on-api-error.md)
@@ -111,7 +112,9 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [SVG Online Dev Tools](svg/svg-online-dev-tools.md)
 
 ### TypeScript
+
 - [Immutable objects or arrays with `as const`](typescript/immutable-objects-or-arrays-as-const.md)
+
 ### VS Code
 
 - [`[Command]` - Copy GitHub permalink to code snippet](vscode/command-copy-github-permalink-to-code-snippet.md)
