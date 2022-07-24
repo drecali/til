@@ -17,6 +17,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [CSS](#css)
 - [Cypress](#cypress)
 - [DevOps](#devops)
+- [Git](#git)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jira](#jira)
@@ -64,6 +65,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### DevOps
 
 - [Free SSL from Cloudflare](devops/free-ssl-cloudflare.md)
+
+### Git
+
+- [Checkout a specific commit](git/checkout-specific-commit.md)
 
 ### HTML
 
