@@ -46,3 +46,7 @@ git branch newBranch 73f33074ada943eb5faf3cb3b5bc11059bda30a8
 ```
 
 This creates a new branch `newBranch` whose head points to commit `73f33074ada943eb5faf3cb3b5bc11059bda30a8`.
+
+## References
+
+- [TechieDelight - create branch from previous commit](https://www.techiedelight.com/create-branch-from-previous-commit-git/)
