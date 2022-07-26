@@ -70,6 +70,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### Git
 
 - [Checkout a specific commit](git/checkout-specific-commit.md)
+- [`[Error]` - src refspec main does not match any. error: failed to push some refs to 'github.com...'](git/error-src-refspec-main-does-not-match-any.md)
 
 ### HTML
 
