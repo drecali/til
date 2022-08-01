@@ -18,6 +18,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Cypress](#cypress)
 - [DevOps](#devops)
 - [Git](#git)
+- [GitHub](#github)
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jira](#jira)
@@ -72,6 +73,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [⭐️ Branching changes lives](git/branching-changes-lives.md)
 - [Checkout a specific commit](git/checkout-specific-commit.md)
 - [`[Error]` - src refspec main does not match any. error: failed to push some refs to 'github.com...'](git/error-src-refspec-main-does-not-match-any.md)
+
+### GitHub
+
+- [`[Timeline]` - Show private activity confidentially](github/timeline-show-private-activity-confidentially.md)
 
 ### HTML
 
