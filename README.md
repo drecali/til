@@ -36,6 +36,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 - [`[DevTools]` - Filter failed or pending network requests](chrome/devtools-filter-failed-or-pending-network-requests.md)
 - [`[DevTools]` - Framework Ignore List - Fix for Sentry.io wrong console log source](chrome/devtools-framework-ignore-list-fix-for-sentry.io-wrong-console-log-source.md)
+- [`[DevTools]` - Show console timestamps](chrome/devtools-show-console-timestamps.md)
 - [Keyboard shortcuts with a high ROI](chrome/keyboard-shortcuts-high-roi.md)
 
 ### <a id="ci"></a>CI (Continuous Integration)
