@@ -58,7 +58,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### Cypress
 
 - [Check if loading is finished](cypress/check-if-loading-finished.md)
-- [Get element with two attributes](cypress/get-element-with-two-attributes.md)
+- [Get element with multiple attributes](cypress/get-element-with-multiple-attributes.md)
 - [Headless login custom command](cypress/headless-login-custom-command.md)
 - [Override global configs for one test/suite](cypress/override-global-configs-one-test-suite.md)
 - [`[Plugin]` - `cypress-terminal-report` for instant headless debug info](cypress/plugin-cypress-terminal-report-instant-headless-debug-info.md)
