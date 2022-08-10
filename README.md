@@ -45,6 +45,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### CLI
 
+- [`[Cypress]` - Always upload videos and screenshots](cypress/ci-always-upload-videos-screenshots.md)
 - [Run commands sequentially](cli/run-commands-sequentially.md)
 - [`[Terminal]` - Fig: Modern autocomplete for any terminal](cli/terminal-fig-modern-autocomplete-for-any-terminal.md)
 - [`[Terminal]` - Warp: a modern terminal with IDE features](cli/terminal-warp-a-modern-terminal-with-ide-features.md)
@@ -58,6 +59,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### Cypress
 
 - [Check if loading is finished](cypress/check-if-loading-finished.md)
+- [`[CI]` - Always upload videos and screenshots](cypress/ci-always-upload-videos-screenshots.md)
 - [Get element with multiple attributes](cypress/get-element-with-multiple-attributes.md)
 - [Headless login custom command](cypress/headless-login-custom-command.md)
 - [Override global configs for one test/suite](cypress/override-global-configs-one-test-suite.md)
