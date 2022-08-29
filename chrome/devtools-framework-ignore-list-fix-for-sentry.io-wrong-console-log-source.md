@@ -39,7 +39,10 @@ The solution recommended in the [Sentry docs](https://docs.sentry.io/platforms/j
 
    ![image](https://user-images.githubusercontent.com/24983797/177768864-4adbcdfe-7cff-47a2-b100-c8a46e7d944a.png)
 
-1. Add `/@sentry/` **OR** the wrong Sentry `source` filename listed in the console. In my case that was `instrument.ts`.
+1. Add `/@sentry/` **OR** the wrong Sentry `source` filename listed in the console. In my case that was `instrument.ts`. Or add both if you feel adventurous.
+
+   <img width="600" alt="image" src="https://user-images.githubusercontent.com/24983797/187152966-ccbfa1f8-6585-4b80-b4b7-fecee3b2ecf7.png">
+
 1. Celebrate that Sentry decided to allow you to get your precious console message `source`info back 🎉
 
    ![new](https://user-images.githubusercontent.com/24983797/177777528-d5eee7a3-d101-482a-a454-e2f63958764c.png)
