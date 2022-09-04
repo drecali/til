@@ -32,7 +32,11 @@ In some cases, there may be a legitimate need for code to use `console` methods.
    };
    ```
 
-The console methods above format the output differently:
+|                                                                                   Before                                                                                   |                                                                                  After                                                                                  |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| all `console` methods disallowed <img width="928" alt="image" src="https://user-images.githubusercontent.com/24983797/188308213-243a3e6d-89a1-4ba2-ba7b-6196e49da89f.png"> | only `console.log` disallowed <img width="928" alt="image" src="https://user-images.githubusercontent.com/24983797/188308112-9994e9af-8865-4f3d-83cb-75cf693f2c09.png"> |
+
+The console different methods in code snippet above result in different output styles:
 
 <img width="682" alt="image" src="https://user-images.githubusercontent.com/24983797/188304293-5fb33951-3eae-4120-9e60-280e0a07a660.png">
 

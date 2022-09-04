@@ -42,6 +42,6 @@ module.exports = {
 };
 ```
 
-<img width="625" alt="image" src="https://user-images.githubusercontent.com/24983797/188299794-059153cd-1362-43b4-a8f6-705d479decaa.png">
+<img width="928" alt="image" src="https://user-images.githubusercontent.com/24983797/188308213-243a3e6d-89a1-4ba2-ba7b-6196e49da89f.png">
 
 But what if you need to output some information to the console and want to avoid triggering ESLint errors or warnings? Read [Part 2](./no-console-2-allow-some-console-methods.md) to find out.
