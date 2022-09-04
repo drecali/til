@@ -17,6 +17,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [CSS](#css)
 - [Cypress](#cypress)
 - [DevOps](#devops)
+- [ESLint](#eslint)
 - [Git](#git)
 - [GitHub](#github)
 - [HTML](#html)
@@ -36,6 +37,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 - [`[DevTools]` - Filter failed or pending network requests](chrome/devtools-filter-failed-or-pending-network-requests.md)
 - [`[DevTools]` - Framework Ignore List - Fix for Sentry.io wrong console log source](chrome/devtools-framework-ignore-list-fix-for-sentry.io-wrong-console-log-source.md)
+- [`[DevTools]` - Show `console.debug()` output in console](/chrome/devtools-show-console-debug-output.md)
 - [`[DevTools]` - Show console timestamps](chrome/devtools-show-console-timestamps.md)
 - [Keyboard shortcuts with a high ROI](chrome/keyboard-shortcuts-high-roi.md)
 
@@ -71,6 +73,11 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 ### DevOps
 
 - [Free SSL from Cloudflare](devops/free-ssl-cloudflare.md)
+
+### ESLint
+
+- [`no-console` - 1 - Disallow all `console` methods](eslint/no-console-1-disallow-all-console-methods.md)
+- [`no-console` - 2 - Allow some `console` methods](eslint/no-console-2-allow-some-console-methods.md)
 
 ### Git
 
