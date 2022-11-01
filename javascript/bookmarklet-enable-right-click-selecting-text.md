@@ -2,7 +2,9 @@
 
 ## Background
 
-Some websites don't want users to be able to `right-click` or `select text` because..... reasons 🤷‍♂️. They accomplish this by preventing the default behavior of (at least) the `oncontextmenu` and `onselectstart` events listeners respectively. `Event listeners` are just functions that run only when in response to a certain event from the user/browser. One way to prevent the default behavior associated with an event is for its event listener to `return false`.
+Some websites don't want users to be able to `right-click` or `select text` because..... reasons 🤷‍♂️.
+
+They accomplish this by preventing the default behavior of (at least) the `oncontextmenu` and `onselectstart` events listeners respectively. `Event listeners` are just functions that run only when in response to a certain event from the user/browser. One way to prevent the default behavior associated with an event is for its event listener to `return false`.
 
 <details>
     <summary>Guess which country abuses this technique?</summary>
@@ -11,12 +13,12 @@ Some websites don't want users to be able to `right-click` or `select text` beca
 
 <details>
     <summary>Click here to find out why this is silly</summary>
-For some reasons, those websites are overly protective of their precious content. They're paranoid someone will steal it. This technique only prevents the most casual users copying and pasting text or images into a search engine, on social media, or on their blog. A slightly more motivated user could easily bypass these "protections" in mere seconds. This is because when a user browses a website, (pretty much) **all** the website's code is sent to the user. Once it's on their computer, they can do anything they want with it, including copy every bit of it. These measures are silly because they make things more difficult for the most casual and innocent/harmless users while doing nothing to stop a more determined website/content thief.
+For some reasons, those websites are overly protective of their precious content. They're paranoid that someone will steal it. This technique only prevents the most casual users copying and pasting text or images into a search engine, on social media, or on their blog. A slightly more motivated user could easily bypass these "protections" in mere seconds. This is because when a user browses a website, (pretty much) <strong>all</strong> the website's code is sent to the user. Once it's on their computer, they can do anything they want, including copy every bit of it. These measures are silly because they make things more difficult for the most casual and innocent/harmless users while doing nothing to stop a more determined website/content thief.
 </details>
 
 ## User Story
 
-- When I'm browsing a website on the computer I want to be able to
+- When I'm browsing a website on the computer I want to be able to:
   - highlight to select any element I want.
   - right-click anywhere I damn well please.
 
