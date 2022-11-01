@@ -32,7 +32,7 @@ With one click, this snippet removes all `notranslate` classes from all elements
 </details>
 
 ```js
-// Sorry, the syntax highlighting is strange because bookmarklets have slightly different syntax than normal JavaScript. They require starting with `javascript:`, which throws off JS syntax highlighting 🤷‍♂️
+// Paste the code below as the URL of a bookmark, then click the bookmark to run it.
 javascript: (() => {
   const rootOfAllEvil = "notranslate";
   document

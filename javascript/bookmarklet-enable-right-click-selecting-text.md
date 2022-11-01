@@ -39,9 +39,17 @@ document.oncontextmenu = null;
 document.onselectstart = null;
 document.ondragstart = null;
 
-//The bookmarklet version
-// Sorry, the syntax highlighting is strange because bookmarklets have slightly different syntax than normal JavaScript. They require starting with `javascript:`, which throws off JS syntax highlighting 🤷‍♂️
-javascript: (() => {Array.from(document.all).forEach((el) => {  el.oncontextmenu = null;  el.onselectstart = null;  el.ondragstart = null;});document.oncontextmenu = null;document.onselectstart = null;document.ondragstart = null;})();
+// The bookmarklet version. Paste the code below as the URL of a bookmark, then click the bookmark to run it.
+javascript: (() => {
+  Array.from(document.all).forEach((el) => {
+    el.oncontextmenu = null;
+    el.onselectstart = null;
+    el.ondragstart = null;
+  });
+  document.oncontextmenu = null;
+  document.onselectstart = null;
+  document.ondragstart = null;
+})();
 ```
 
 ## Try it yourself!
