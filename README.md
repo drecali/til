@@ -95,6 +95,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### JavaScript
 
+- [`[Bookmarklet]` - Enable right-click and selecting text](javascript/bookmarklet-enable-right-click-selecting-text.md)
 - [`[Bookmarklet]` - insert text snippet at current cursor position](markdown/collapsible-sections-plus-bookmarklet.md)
 - [`[Bookmarklet]` - remove `notranslate` class that prevents whole page translation](javascript/bookmarklet-remove-notranslate-class-that-prevents-whole-page-translation.md)
 - [`[Bookmarklet]` - Use Wayback Machine for the current URL](javascript/bookmarklet-use-wayback-machine-on-current-page.md)
