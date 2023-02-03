@@ -26,7 +26,7 @@ For some reasons, those websites are overly protective of their precious content
 
 It's possible to remove `event listeners` manually, but a bookmarklet can accomplish this much faster. [Bookmarklets](https://www.freecodecamp.org/news/what-are-bookmarklets/) are magic. They appear to be an ordinary browser bookmark but then clicked, they run a predefined JavaScript snippet.
 
-It's super easy to remove `event listeners` by reassigning them as `null`. This effectively erases the event listeners and the default browser behavior will occur when the event is fired. The code below iterates through every element in the DOM, and the `Document` interface and removes all event listeners that were feebly trying to sabotage basic, reasonable browser interactions.
+It's super easy to remove `event listeners` by reassigning them as `null`. This effectively erases the event listeners and the default browser behavior will occur when the event is fired. The code below iterates through every element in the DOM, and the [`Document`](https://developer.mozilla.org/en-US/docs/Web/API/Document) interface and removes all event listeners that were feebly trying to sabotage basic, reasonable browser interactions.
 
 ```js
 // The console version:
