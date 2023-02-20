@@ -21,7 +21,6 @@ That's why formatted numbers are so great. JavaScript uses the `underscore` char
 const lessReadable: 20000000
 const moreReadable: 20_000_000
 const koreanStylez: 2000_0000
-const koreanStylez: 2000_0000
 const overkill: 2_0_0_0_0_0_0_0
 ```
 
