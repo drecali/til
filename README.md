@@ -18,6 +18,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Cypress](#cypress)
 - [DevOps](#devops)
 - [ESLint](#eslint)
+- [Gear](#gear)
 - [Git](#git)
 - [GitHub](#github)
 - [HTML](#html)
@@ -78,6 +79,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 - [`no-console` - 1 - Disallow all `console` methods](eslint/no-console-1-disallow-all-console-methods.md)
 - [`no-console` - 2 - Allow some `console` methods](eslint/no-console-2-allow-some-console-methods.md)
+
+### Gear
+
+- [Best portable laptop stand](gear/best-portable-laptop-stand.md)
 
 ### Git
 
