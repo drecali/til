@@ -86,6 +86,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### Git
 
+- [Add to your last commit with the `--amend` flag](git/add-to-your-last-commit-with-amend-flag.md)
 - [⭐️ Branching changes lives](git/branching-changes-lives.md)
 - [Checkout a specific commit](git/checkout-specific-commit.md)
 - [`[Error]` - src refspec main does not match any. error: failed to push some refs to 'github.com...'](git/error-src-refspec-main-does-not-match-any.md)
