@@ -23,6 +23,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [GitHub](#github)
 - [HTML](#html)
 - [JavaScript](#javascript)
+- [Jest](#jest)
 - [Jira](#jira)
 - [Markdown](#markdown)
 - [Material UI](#material-ui)
@@ -111,6 +112,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Object copying failures and partial solutions](javascript/object-copying-failures-and-partial-solutions.md)
 - [RegEx is awesome - online RegEx playgrounds and cheatsheets](javascript/regex-is-awesome-online-regex-playgrounds-cheatsheets.md)
 - [Sort an array of strings/objects alphabetically](javascript/sort-array-of-strings-alphabetical.md)
+
+### Jest
+
+- [`Jest config in Typescript project'](jest/jest-config-in-ts-project.md)
 
 ### Jira
 
