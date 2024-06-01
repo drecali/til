@@ -25,6 +25,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [JavaScript](#javascript)
 - [Jest](#jest)
 - [Jira](#jira)
+- [MacOS](#macos)
 - [Markdown](#markdown)
 - [Material UI](#material-ui)
 - [Office Software](#office-software)
