@@ -123,6 +123,10 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [`[Automation]`- Find the smart value for a field](jira/automation-find-smart-value-for-field.md)
 - [`[Automation]`- update task `Story point estimate` when subtask values change](jira/automation-sum-of-story-point-estimate.md)
 
+### MacOS
+
+- [Show hidden files in Finder](macos/show-hidden-files-in-finder.md)
+
 ### Markdown
 
 - [Collapsible Sections + Bookmarklet](markdown/collapsible-sections-plus-bookmarklet.md)
