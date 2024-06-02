@@ -126,6 +126,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### MacOS
 
+- [App recommendation: Coconut Battery](macos/app-recommendation-coconut-battery.md)
 - [Show hidden files in Finder](macos/show-hidden-files-in-finder.md)
 
 ### Markdown
