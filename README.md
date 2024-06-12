@@ -109,6 +109,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [`[Bookmarklet]` - Use Wayback Machine for the current URL](javascript/bookmarklet-use-wayback-machine-on-current-page.md)
 - [Combine conditions using array](javascript/combine-conditions-using-array.md)
 - [`[Console]` - Style `console.log()` output with CSS](javascript/console-style-console-log-output-css.md)
+- [`[Library]` - Easy resizable elements with no dependencies](javascript/library-easy-resizable-elements-no-dependencies.md)
 - [`[Numbers]` - better readability with underscores for large numbers](javascript/numbers-better-readability-with-underscores-for-large-numbers.md)
 - [Object copying failures and partial solutions](javascript/object-copying-failures-and-partial-solutions.md)
 - [RegEx is awesome - online RegEx playgrounds and cheatsheets](javascript/regex-is-awesome-online-regex-playgrounds-cheatsheets.md)
