@@ -129,7 +129,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 - [App recommendation: Coconut Battery](macos/app-recommendation-coconut-battery.md)
 - [Get MacBook battery info with terminal command](macos/get-macbook-battery-info-with-terminal-command.md)
-- [Show hidden files in Finder](macos/show-hidden-files-in-finder.md)
+- [Permanently show hidden files in Finder](macos/permanently-show-hidden-files-in-finder.md)
 
 ### Markdown
 
