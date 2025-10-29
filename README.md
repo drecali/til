@@ -46,11 +46,11 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 
 ### <a id="ci"></a>CI (Continuous Integration)
 
+- [`[Cypress]` - Always upload videos and screenshots](cypress/ci-always-upload-videos-screenshots.md)
 - [`[GitHub Actions]` - Conditionally run CI action if commit message has --flag](ci/github-actions-conditionally-run-ci-action-if-commit-message-has-flag.md)
 
 ### CLI
 
-- [`[Cypress]` - Always upload videos and screenshots](cypress/ci-always-upload-videos-screenshots.md)
 - [Run commands sequentially](cli/run-commands-sequentially.md)
 - [`[Terminal]` - Fig: Modern autocomplete for any terminal](cli/terminal-fig-modern-autocomplete-for-any-terminal.md)
 - [`[Terminal]` - Warp: a modern terminal with IDE features](cli/terminal-warp-a-modern-terminal-with-ide-features.md)
