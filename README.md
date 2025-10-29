@@ -68,6 +68,7 @@ This repo is inspired by the [@jbrandchaud/til](https://github.com/jbranchaud/ti
 - [Get element with multiple attributes](cypress/get-element-with-multiple-attributes.md)
 - [Headless login custom command](cypress/headless-login-custom-command.md)
 - [Override global configs for one test/suite](cypress/override-global-configs-one-test-suite.md)
+- [Partly stub API responses](cypress/partially-stub-api-response.md)
 - [`[Plugin]` - `cypress-terminal-report` for instant headless debug info](cypress/plugin-cypress-terminal-report-instant-headless-debug-info.md)
 - [Select element by exact `innerText` regExp match, even if similar elements exist](cypress/select-element-by-exact-innerText-regex-match.md)
 - [Stop test suite on API error](cypress/stop-test-suite-on-api-error.md)
